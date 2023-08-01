@@ -1,0 +1,10 @@
+#frontend
+launchpad-frontend-v1-main/node_modules
+launchpad-frontend-v1-main/build
+launchpad-frontend-v1-main/yarn-error.log
+launchpad-frontend-v1-main/yarn.lock
+#smart contract
+smart-contract-v1-main/node_modules
+smart-contract-v1-main/.openzeppelin
+smart-contract-v1-main/artifacts
+smart-contract-v1-main/.cache
